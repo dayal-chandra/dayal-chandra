@@ -1,5 +1,4 @@
-# 💫 About Me:
-Aspiring Full-Stack Developer | Exploring React, Node.js, MongoDB | Eager to learn and build real-world projects
+![Banner](https://i.ibb.co/N2wpQb69/dayal-github.png)
 
 
 ## 🌐 Socials:
