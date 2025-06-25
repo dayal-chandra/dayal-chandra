@@ -1,5 +1,9 @@
 ![Banner](https://i.ibb.co/N2wpQb69/dayal-github.png)
 
+### 🧑‍💻 About Me
+
+Passionate web developer exploring full-stack development and building community-driven solutions. Currently diving deeper into React and Node.js.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dayal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dayalchandra511@gmail.com) 
