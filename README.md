@@ -10,6 +10,11 @@ Passionate web developer exploring full-stack development and building community
 - 💼 Building a **local tourism platform**
 - 🛠️ Improving an **event management web app**
 
+### 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dayal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dayalchandra511@gmail.com) 
