@@ -28,7 +28,7 @@ Passionate web developer exploring full-stack development and building community
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dayal-chandra&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayal-chandra&theme=react" />
+  <img src="https://streak-stats.demolab.com?user=dayal-chandra&theme=react" />
 </p>
 
 ## 🏆 GitHub Trophies
