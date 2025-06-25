@@ -28,11 +28,14 @@ Passionate web developer exploring full-stack development and building community
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dayal-chandra&show_icons=true&theme=react" />
-  <img src="https://streak-stats.demolab.com?user=dayal-chandra&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayal-chandra&layout=compact&theme=react" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dayal-chandra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=dayal-chandra&theme=onedark&no-bg=true" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
