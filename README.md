@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="[banner-url-here](https://i.ibb.co/N2wpQb69/dayal-github.png)" alt="GitHub Banner" width="100%"/>
 
 **dayal-chandra/dayal-chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
