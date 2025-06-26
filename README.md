@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=dayal-chandra&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 Passionate web developer exploring full-stack development and building community-driven solutions. Currently diving deeper into React and Node.js.
 
