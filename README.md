@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/N2wpQb69/dayal-github.png)
+![Banner](https://i.ibb.co.com/j9xYrBMv/dayal-github.png)
 
 
 ## 🧑‍💻 About Me
