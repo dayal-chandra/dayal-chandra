@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 
-Passionate web developer exploring full-stack development and building community-driven solutions. Currently diving deeper into React and Node.js.
+Passionate web developer exploring full-stack development and building community-driven solutions. Currently diving deeper into Next.js and TypeScript.
 
 ## 🚀 What I'm Working On
 
