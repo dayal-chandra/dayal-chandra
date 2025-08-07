@@ -14,7 +14,7 @@ Passionate web developer exploring full-stack development and building community
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,nextjs" />
 </p>
 
 ## 🌐 Socials:
